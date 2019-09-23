@@ -2,7 +2,7 @@
 
 Flask Credit Scoring
 
-This project predicts the salary of the employee based on the experience.
+This project predicts Weather the bank customer will be late on their credit payment or not.
 
 Model
 
